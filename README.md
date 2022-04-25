@@ -63,6 +63,7 @@ Figure 6. Software interface for parameter settings
 ## 3.2 Metabolite annotation
 ### 3.2.1 Using the default background database
 * When you decide to use the default background network for metabolite annotation, the software interface is shown in Figure 7.
+* If you use StrMNA for the first time, you should set parameters as shown in Figure 8.
 
  ![image](https://user-images.githubusercontent.com/49905529/165009783-7992d029-3086-4532-9096-6b6a8e2e81e8.png)<br>
 Figure 7. Software interface for Metabolite annotation using the default background network
