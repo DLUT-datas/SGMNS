@@ -40,9 +40,7 @@ import copy
 print("\nParameter settings for StrMNA")
 exe_adr=input("Please enter the pathway of the StrMNA.exe file，e.g. D:\StrMNA\n")
 ion_mode=int(input("Ion mode of dataset：positive ion mode=1；negative ion mode=0, e.g. 1\n"))
-#MS2_mz=float(input("请输入二级匹配的质量偏差/Da，如0.01\n"))
 MS2_mz=0.01
-#MS2_rt=float(input("请输入二级匹配的保留时间偏差/s，如30\n"))
 MS2_rt=30
 SD_mz_threshold=float(input("Tolerance of the exact mass match/ppm，e.g. 10\n"))
 SD_rt_threshold=float(input("Tolerance for the retention time match/%，e.g. 30\n"))
