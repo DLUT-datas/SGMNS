@@ -1,0 +1,38 @@
+Guidelines of StrMNA
+1.Input files (Put in the "data" folder. Do not modify the names of the folders and files)
+For positive ion mode：
+ a)File of the initial seed metabolites："Seed metabolites_POS.csv".
+ b)Peak table："Peak table_POS.csv".
+ c)Files of the MS2 spectra："MSMS/POS" folder，files named “MSMS1.mgf”,“MSMS2.mgf”,“MSMS3.mgf”...“MSMSn.mgf”.
+For negative ion mode：
+ a)File of the initial seed metabolites："Seed metabolites_NEG.csv".
+ b)Peak table："Peak table_NEG.csv".
+ c)Files of the MS2 spectra："MSMS/NEG" folder，files named “MSMS1.mgf”,“MSMS2.mgf”,“MSMS3.mgf”...“MSMSn.mgf”.
+ 
+2.Double-click on the StrMN.exe to run.
+
+3.Parameter settings for StrMN
+  Please enter the pathway of the StrMNA.exe file，e.g. D:\StrMNA
+  Ion mode of dataset：positive ion mode=1；negative ion mode=0，e.g. 1
+  Tolerance of the exact mass match/ppm，e.g. 10
+  Tolerance for the retention time match/%，e.g. 30
+  Threshold of the MS/MS spectral similarity，e.g. 0.5
+  Please enter the name of the result file as you expecte，e.g. result
+  Please decide whether you want to build a new background network or use the default network for the subsequent metabolite annotation：new=1；default=0, e.g. 0
+  Please enter the structure similarity threshold to build the background network，e.g. 0.4
+  
+  Construction of StrMN
+  Saving node information...
+  Saving edge information...
+  Saving the layout of background network...
+  Background network construction is completed
+
+  Metabolite annotation
+  Reading the MS/MS spectra...
+  Reading the seed metabolites...
+  Reading the peak table...
+  Outputting result...
+  Finished.
+  Press Enter to exit...
+
+4.Result files("result" folder)
