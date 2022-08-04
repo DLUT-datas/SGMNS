@@ -54,7 +54,7 @@ Figure 4. Seed metabolites
  ![image](https://user-images.githubusercontent.com/49905529/165009757-6060d4af-14cf-4597-9e53-6e8b8fc58500.png)<br>
 Figure 5. The folder where the software is published
 
-## 3.1 Parameter settings for StrMNA
+## 3.1 Parameter settings for SGMNS
 * Enter parameters in turn according to the software prompts, and then press ‘Enter’ to continue. The default parameters are shown in Figure 6.
 
  ![image](https://user-images.githubusercontent.com/49905529/165009772-fde6511b-4ec7-4b4a-8248-6ef762ff716c.png)<br>
