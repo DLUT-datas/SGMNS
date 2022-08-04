@@ -10,7 +10,6 @@ SGMNS User Manual
 
 	* *2.2 Files for structure annotation<br>
 
-
  
 # 1. Introduction and Installation
 
