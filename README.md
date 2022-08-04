@@ -1,6 +1,6 @@
-StrMNA
+SGMNS
 ==
-StrMNA User Manual
+SGMNS User Manual
 --
 * *1. Introduction and Installation<br>
 
@@ -12,7 +12,7 @@ StrMNA User Manual
 
 * *3. Software running instructions<br>
 
-	* *3.1 Parameter settings for StrMN<br>
+	* *3.1 Parameter settings for MGMN<br>
 
 	* *3.2 Metabolite annotation<br>
 		* *3.2.1 Using the default background database
@@ -21,7 +21,7 @@ StrMNA User Manual
  
 # 1. Introduction and Installation
 
-* Structural Molecular Network-based Annotation (StrMNA) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7.
+* Structure-Guided Molecular Network Strategy (SGMNS) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7.
 
 # 2. Input files
 
