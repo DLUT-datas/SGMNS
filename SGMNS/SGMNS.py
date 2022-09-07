@@ -38,7 +38,7 @@ from matchms.importing import load_from_mgf
 import copy
 
 print("\nParameter settings for SGMNS")
-exe_adr=input("Please enter the pathway of the SGMNS.exe file，e.g. D:\SGMNS\n")
+exe_adr=input("Please enter the pathway of the SGMNS.py file，e.g. D:\SGMNS\n")
 ion_mode=int(input("Ion mode of dataset：positive ion mode=1；negative ion mode=0, e.g. 1\n"))
 MS2_mz=0.01
 MS2_rt=30
