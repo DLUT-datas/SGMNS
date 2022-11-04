@@ -22,7 +22,7 @@ SGMNS User Manual
  
 # 1. Introduction and Installation
 
-* Structure-Guided Molecular Network Strategy (SGMNS) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7. SGMNS is published as an executable file and can be downloaded freely from the SourceForge via https://sourceforge.net/projects/sgmns/.
+* Structure-Guided Molecular Network Strategy (SGMNS) is a free network-based and spectral library-independent tool for deep annotation of untargeted ultra-performance liquid chromatography-high resolution mass spectrometry (UPLC-HRMS) metabolomics data. The source program is in the Python language, and the development environment is Spyder 3.7. SGMNS is published as an executable file and can be downloaded freely from the SourceForge via https://sourceforge.net/projects/sgmns/ (All five RAR files need to be downloaded).
 
 # 2. Input files
 
@@ -50,7 +50,7 @@ Figure 3. MGF files
 Figure 4. Seed metabolites
 
 # 3. Software running instructions
-* The executable file is published in a folder, as shown in Figure 5. Double-click SGMNS.exe in the folder ‘SGMNS’ to run the executable file.
+* The executable file is published in a folder, as shown in Figure 5. Double-click SGMNS.exe in the folder ‘SGMNS’ to run the executable file. For the example dataset, the program runs within 30 min.
 
 ![image](https://user-images.githubusercontent.com/49905529/199870757-6d3ad3a4-8ce9-4755-8fcf-1918b0852e96.png)<br>
 Figure 5. The folder where the software is published
