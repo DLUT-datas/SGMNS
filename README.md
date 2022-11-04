@@ -12,7 +12,7 @@ SGMNS User Manual
 
 * *3. Software running instructions<br>
 
-	* *3.1 Parameter settings for MGMN<br>
+	* *3.1 Parameter settings for SGMNS<br>
 
 	* *3.2 Metabolite annotation<br>
 		* *3.2.1 Using the default background database
