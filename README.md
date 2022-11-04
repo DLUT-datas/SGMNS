@@ -52,13 +52,13 @@ Figure 4. Seed metabolites
 # 3. Software running instructions
 * The executable file is published in a folder, as shown in Figure 5. Double-click SGMNS.exe in the folder ‘SGMNS’ to run the executable file.
 
- ![image](https://user-images.githubusercontent.com/49905529/165009757-6060d4af-14cf-4597-9e53-6e8b8fc58500.png)<br>
+![image](https://user-images.githubusercontent.com/49905529/199870757-6d3ad3a4-8ce9-4755-8fcf-1918b0852e96.png)<br>
 Figure 5. The folder where the software is published
 
 ## 3.1 Parameter settings for SGMNS
 * Enter parameters in turn according to the software prompts, and then press ‘Enter’ to continue. The default parameters are shown in Figure 6.
 
- ![image](https://user-images.githubusercontent.com/49905529/165009772-fde6511b-4ec7-4b4a-8248-6ef762ff716c.png)<br>
+![image](https://user-images.githubusercontent.com/49905529/199870775-a752e1d0-528d-471f-a42a-447f21734e9a.png)<br>
 Figure 6. Software interface for parameter settings
 
 ## 3.2 Metabolite annotation
@@ -66,11 +66,11 @@ Figure 6. Software interface for parameter settings
 * When you decide to use the default background network for metabolite annotation, the software interface is shown in Figure 7.
 * If you use SGMNS for the first time, you should set parameters as shown in Figure 8.
 
- ![image](https://user-images.githubusercontent.com/49905529/165009783-7992d029-3086-4532-9096-6b6a8e2e81e8.png)<br>
+![image](https://user-images.githubusercontent.com/49905529/199870794-567d4256-6f00-4ecf-bd64-15b8a755e3c6.png)<br>
 Figure 7. Software interface for Metabolite annotation using the default background network
 
 ### 3.2.2 Building a new background network
 * When you decide to build a new background network for the subsequent metabolite annotation, the software interface is shown in Figure 8.
 
-  ![image](https://user-images.githubusercontent.com/49905529/165009789-dff81596-c6fe-4cd8-a162-8a5d960330d1.png)<br>
+![image](https://user-images.githubusercontent.com/49905529/199870821-4d325fef-e61a-4d8c-8928-21c52a4cfe57.png)<br>
 Figure 8. Software interface for Metabolite annotation using a new background network
